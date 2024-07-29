@@ -1,0 +1,221 @@
+# Project definitions (do not edit)
+Task: open_field_zone
+scorer: Me
+date: Jul11
+multianimalproject: false
+identity:
+
+
+# Project path (change when moving around)
+project_path: 
+  C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11
+
+
+# Default DeepLabCut engine to use for shuffle creation (either pytorch or tensorflow)
+engine: pytorch
+
+
+# Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    1.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    10.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    11.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    12.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    13.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    14.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    15.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    16.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    17.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    18.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    19.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    2.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    20.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    21.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    22.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    23.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    24.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    25.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    26.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    27.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    28.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    29.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    3.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    30.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    31.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    32.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    33.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    34.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    35.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    36.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    37.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    38.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    39.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    4.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    40.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    41.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    42.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    43.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    44.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    45.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    46.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    47.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    48.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    5.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    6.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    7.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    8.mp4
+  : crop: 0, 640, 0, 480
+  ? C:\Users\schiv\OneDrive\Desktop\Cours\Master\GSON\Stage_M1\Travail\Scripts\open_field_model\open_field_zone-Me-2024-07-11\videos\Test
+    9.mp4
+  : crop: 0, 640, 0, 480
+bodyparts:
+- Tete
+- Corps
+- Queue
+
+
+# Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+
+# Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
+
+
+# Plotting configuration
+skeleton:
+- - Tete
+  - Corps
+  - Queue
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 12
+alphavalue: 0.7
+colormap: rainbow
+
+
+# Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: hrnet_w48
+default_augmenter: default
+snapshotindex: -1
+detector_snapshotindex: -1
+batch_size: 8
+
+
+# Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+#if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+
+# Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
+
+
+# Conversion tables to fine-tune SuperAnimal weights
+SuperAnimalConversionTables:

@@ -1,0 +1,16 @@
+all_joints:
+- - 0
+- - 1
+- - 2
+all_joints_names:
+- Tete
+- Corps
+- Queue
+dataset: training-datasets\iteration-0\UnaugmentedDataSet_open_field_zoneJul11\open_field_zone_Me95shuffle2.mat
+global_scale: 0.8
+init_weights: c:\Users\schiv\anaconda3\envs\DEEPLABCUT\lib\site-packages\deeplabcut
+location_refinement: true
+locref_stdev: 7.2801
+net_type: hrnet_w48
+num_joints: 3
+scoremap_dir: test
